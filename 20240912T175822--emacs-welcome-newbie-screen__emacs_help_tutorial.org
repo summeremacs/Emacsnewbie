@@ -1,0 +1,49 @@
+#+title:      Emacs Welcome Newbie Screen
+nnn#+date:       [2024-09-12 Thu 17:58]
+#+filetags:   :emacs:help:tutorial:
+#+identifier: 20240912T175822
+
+* Welcome!
+If you're new to Emacs, you've clicked through to the right place. When opening Emacs for the first time, you may be underwhelmed with the "look" and "feel" of it. Perhaps you come from a writing background, or the arts or another visual-based area where applications don't look anything like this! However, believe me when I say that you can make Emacs into your own look and feel with just a little bit of work - a few minutes here and there can do wonders to make you feel more comfortable. So, let's get started:
+
+* Making Emacs your own
+** The first thing you need to understand is that Emacs is unlike any other thing you have ever used in your life. It is:
+
+1) Very powerful
+2) Completely customizable
+3) Versatile with many thousands of packages
+4) A bit old school and retro (we'll get to that but don't be afraid)
+
+We don't have to get into too much detail right now but there is almost nothing that Emacs cannot do, and it will last you for the rest of your life.  But before you do anything, you will need to learn a few basics. Click the following link to bring up another buffer (like a window) to read through the Emacs Tutorial. This will teach you how to move around with the keyboard (without even using the mouse!). Clicking this link will not close this window and you can get back here at any time by typing the following command: M-x newbie (this is usually alt-x on the PC and option-x on the Mac). Go there now and spend a few minutes on the tutorial to familiarize yourself with the navigation, and then come back here to continue.
+
+** Configuration
+Now that you've done the basic movement/editing tutorial, you'll want to know how to start configuring Emacs. You might expect a sort of control panel like modern apps have, but Emacs doesn't have that. What Emacs has is much more powerful. I'll explain:
+When you open an app and click on the preferences pane, you are limited by what the programmers let you configure and do. Emacs doesn't limit you in anything. It will do and present the way you want it to. You are literally unlimited in every way. Think of Emacs as a blank canvas which you can paint on with any brush, any color, and any picture you want. And then, on top of that, you can change it /on the fly/. That's right! Emacs doesn't need to restart to install the changes. We'll show you how to do that later, but I just wanted to explain that the only thing that limits you with Emacs is your own imagination and a bit of learning.
+That's where the configuration comes in: Emacs has a sort of "control panel" which you can use, but many users write their own configurations from scratch. This isn't very hard to do. Many of you might be thinking right now: "I don't know how to do that" - that's fine. None of us knew how to do that when we first started. But I promise you: it won't take you long at all. There are just a few things you need to learn first, and that's what this section of the tutorial is for.
+
+** Themes
+Now how do you make Emacs look better? I know what you're thinking: Emacs looks /old/. It looks like it's from the 1990s to you, perhaps. But it doesn't /have/ to. What follows is a quick instruction on how to theme your Emacs with presets. There are hundreds, if not more than a thousand themes for Emacs, and you can later on even make your own. We've included some themes in packages you can try out that provide at least a basic themed framework, and some links to even more comprehensive ones. Don't be afraid to try some, or even all of them! Emacs makes it very easy to delete a package if you don't want to use it. 
+
+** Packages
+Emacs has so many packages available from so many people that they can't really all be counted. But rest assured: it numbers in the thousands. Since the assumption for those reading this tutorial is that they are not coders or developers, we are going to focus mostly on packages which will help you get up and running with your writing needs. Here are some suggested packages. There are many more which are not covered here and this is not necessarily an endorsement of one package over another. These are just helpful starting places for new users.
+
+*** Org Mode
+Org-Mode is what is known as "the killer app". Org-Mode is a project apart from Emacs, but it is built for Emacs, and there is almost nothing that it cannot do out of the box. The trick is to know how to set it up for your own needs and to understand how  it works (at least some of it). Org-Mode has a very good website where you can learn many basics and even advanced things, but we're going to go through a few things here for you to start.
+
+*** EWS
+The Emacs Writing Studio is a wonderful project to get writers up and running in Emacs. It provides information on how to set up for writing, printing, and even publishing to various formats. It's a bit like this tutorial but more focused for writers alone.
+
+*** Denote
+Denote is a fabulous package which is a note taking system which can be used with Org-Mode, or outside of it. The author is a very well known creator of Emacs packages and he wrote this to help organize his files and notes in a very customizable way. It's easy to use because it uses the 'dired' file system built into Emacs to organize the files. More on 'dired' will be listed below (it is fantastic, fast, and very, very powerful).
+
+*** Org Roam
+Org-Roam is another note taking system built for Emacs. It does use a database, but it is easily managed from within Emacs. Org Roam doesn't use the 'dired' file system, but it does maintain links easily and there are many things that you can do with your notes to organize them within this system. We recommend looking at both (or others later if you wish) to learn about them.
+
+*** Fontaine
+Fontaine is wonderful package for fonts. It allows you to easily change your fonts across Emacs in various ways. It is fairly easy to set up and copy/paste different setups in the config, so you can be up and running with different fonts in no time. This will easily allow you to write and take notes in your favorite fonts just like any other text editor.
+
+*** Olivetti
+Olivette is a great package for distraction-free writing. It can center your writing into a column and turn off all other things from the buffer so that you are not distracted by them. Easily configured, Olivette (and other packages like it) are a wonderful way to write your essay, or in your daily journal, or any other way you want to write text.
+
+*** Autocompletion
+
