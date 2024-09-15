@@ -4,7 +4,7 @@ nnn#+date:       [2024-09-12 Thu 17:58]
 #+identifier: 20240912T175822
 
 * Welcome!
-If you're new to Emacs, you've clicked through to the right place. When opening Emacs for the first time, you may be underwhelmed with the "look" and "feel" of it. Perhaps you come from a writing background, or the arts or another visual-based area where applications don't look anything like this! However, believe me when I say that you can make Emacs into your own look and feel with just a little bit of work - a few minutes here and there can do wonders to make you feel more comfortable. So, let's get started:
+If you're new to Emacs, you've clicked through to the right place. When opening Emacs for the first time, you may be underwhelmed with the "look" and "feel" of it. Perhaps you come from a writing background, or the arts or another visual domain where applications don't look anything like this! However, believe me when I say that you can make Emacs your own ideal in appearance with just a little bit of work - a few minutes here and there can do wonders to make you feel more comfortable. So, let's get started:
 
 * Making Emacs your own
 ** The first thing you need to understand is that Emacs is unlike any other thing you have ever used in your life. It is:
