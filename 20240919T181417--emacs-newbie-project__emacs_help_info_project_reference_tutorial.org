@@ -1,0 +1,16 @@
+#+title:      Emacs Newbie Project
+#+date:       [2024-09-19 Thu 18:14]
+#+filetags:   :emacs:help:info:project:reference:tutorial:
+#+identifier: 20240919T181417
+
+* This page is for the entire Emacs Newbie project
+** From Sacha:
+- https://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/
+- https://gist.github.com/sachac/1748eb1d454e6e89e87bc27f58f6114f
+** From Lumie:
+- https://luminousnine.com/blog/posts/2024-09-16-the-magic-of-gnu-emacs/
+** From uknown (for now):
+- https://p.hagelb.org/emacs-is.html
+** From misc sources:
+- https://www.emacswiki.org/emacs/EmacsNewbie
+- https://emacsdocs.org
