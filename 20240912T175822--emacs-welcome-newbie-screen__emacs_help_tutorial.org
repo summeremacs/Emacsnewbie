@@ -9,10 +9,10 @@ If you're new to Emacs, you've clicked through to the right place. When opening 
 * Making Emacs your own
 ** The first thing you need to understand is that Emacs is unlike any other thing you have ever used in your life. It is:
 
-1) Very powerful
-2) Completely customizable
-3) Versatile with many thousands of packages
-4) A bit old school and retro (we'll get to that but don't be afraid)
+1) Very powerful.
+2) Completely customizable.
+3) Versatile with many thousands of packages.
+4) A bit old school and retro. (we'll get to that but don't be afraid)
 
 We don't have to get into too much detail right now but there is almost nothing that Emacs cannot do, and it will last you for the rest of your life.  But before you do anything, you will need to learn a few basics. Click the following link to bring up another buffer (like a window) to read through the Emacs Tutorial. This will teach you how to move around with the keyboard (without even using the mouse!). Clicking this link will not close this window and you can get back here at any time by typing the following command: M-x newbie (this is usually alt-x on the PC and option-x on the Mac). Go there now and spend a few minutes on the tutorial to familiarize yourself with the navigation, and then come back here to continue.
 
