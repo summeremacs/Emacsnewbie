@@ -14,3 +14,28 @@
 ** From misc sources:
 - https://www.emacswiki.org/emacs/EmacsNewbie
 - https://emacsdocs.org
+
+* Learning levels
+** Basic:
+*** Movement/Keys tutorial
+*** Basic config
+*** Themes
+*** Packages:
+**** Org Mode
+**** EWS
+
+* About Emacs Screen new arrangement:
+** —> New Emacs User? Click here. <--
+** Emacs Tutorial
+** Emacs Manual
+** Emacs Guided Tour
+** Ordering Manuals
+
+** GNU and Freedom
+** Copying Conditions
+** Getting New Versions
+** Absence of Warranty
+
+** Authors
+** Contributing
+
