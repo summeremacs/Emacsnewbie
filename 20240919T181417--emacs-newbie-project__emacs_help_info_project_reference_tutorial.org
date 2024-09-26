@@ -7,6 +7,7 @@
 ** From Sacha:
 - https://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/
 - https://gist.github.com/sachac/1748eb1d454e6e89e87bc27f58f6114f
+- [[https://sachachua.com/blog/2024/09/wednesday-weblog-toots-ending-2024-09-25-emacs-and-tech/][Wednesday weblog: Toots ending 2024-09-25: Emacs and tech :: Sacha Chua]]    
 ** From Lumie:
 - https://luminousnine.com/blog/posts/2024-09-16-the-magic-of-gnu-emacs/
 ** From uknown (for now):
